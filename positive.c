@@ -1,8 +1,10 @@
 # include<stdio.h>
 void main()
 {
-intn=3;
-printf("enter the n value");
+int n=3;
+printf("enter the value of n");
 if(n=>0)
-printf("positive");
+{printf("positive");}
+  else
+  {printf("negative");}
 }
